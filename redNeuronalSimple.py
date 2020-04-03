@@ -1,3 +1,4 @@
+#Codigo para entrenar una compuerta xor de 3 entradas
 umbral = 0.5
 tasa_de_aprendizaje = 0.1
 pesos = [0, 0, 0]

@@ -6,10 +6,8 @@ git remote add origin https://github.com/coconut13/ejemplo1.git
 git push -u origin master
 
 HACER COMMITS
-git add -A
+git add .
 git commit -m "Descripción del commit"
 git push -u origin master
 
-CLONAR REPO
-git clone https://github.com/coconut13/ejemplo1.git
 

@@ -1,3 +1,5 @@
+#Entrenamiento de una red neuronal con libreria numpy y matploitlib
+
 import numpy as np
 import matplotlib.pyplot as plt
 
